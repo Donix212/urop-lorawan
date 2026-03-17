@@ -15,6 +15,7 @@ cpp_examples = [
     ("aloha-throughput", "True", "True"),
     ("parallel-reception-example", "True", "True"),
     ("frame-counter-update", "True", "True"),
+    ("two-devices-lorawan-example", "True", "True"),
 ]
 
 # A list of Python examples to run in order to ensure that they remain
